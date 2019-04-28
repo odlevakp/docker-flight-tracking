@@ -12,8 +12,6 @@ RUN wget http://client.planefinder.net/${PFCLIENT_TGZ} && \
     mv pfclient /usr/bin && \
     rm -f ${PFCLIENT_TGZ}
 
-ADD pfclient-config.json /etc/pfclient-config.json
-
 EXPOSE 30053
 
 CMD ["/usr/bin/pfclient"]
