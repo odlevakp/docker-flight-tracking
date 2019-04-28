@@ -1,0 +1,12 @@
+{
+    "aircraft_timeout": "30",
+    "connection_type": "1",
+    "data_format": "1",
+    "data_upload_interval": "10",
+    "latitude": "ADD_YOUR_LAT",
+    "longitude": "ADD_YOUR_LON",
+    "select_timeout": "10",
+    "sharecode": "ADD_YOUR_SHARECODE",
+    "tcp_address": "172.17.0.1",
+    "tcp_port": "30005"
+}
