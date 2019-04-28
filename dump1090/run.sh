@@ -6,7 +6,7 @@ fi
 
 nginx
 
-cd /root/dump1090
+cd /opt/dump1090
 
 ./dump1090 --net \
 --interactive \
